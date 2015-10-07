@@ -1,0 +1,14 @@
+# Site settings
+title: A.E.'s Coding & Engineering Wares & Whatnots
+email: null@nope.nottoday
+description: > # this means to ignore newlines until "baseurl:"
+  The landing page for all (some) of the wares pushed forth into this cold world
+ by one Albert Edward Wallace. Please indulge in any & everything you may see
+ within this not-a-shop-because-it's-practice-code shop.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: aewallace
+github_username:  aewallace
+
+# Build settings
+markdown: kramdown
