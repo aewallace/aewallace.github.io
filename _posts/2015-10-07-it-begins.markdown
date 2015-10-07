@@ -45,7 +45,7 @@ Visit me on [Twitter (@AEWallace)][twitterln]. For nonsense, you can visit my [T
 That should have probably gone into the About page I neglected to set up properly. I advise you to go check it out. It's HILARIOUS.
 **A. E. Wallace out**
 
-[twitterln]:	twitter.com/aewallace
-[tumblrln]:	aewallace.tumblr.com
-[myceln]:	club.myce.com
+[twitterln]:	http://twitter.com/aewallace
+[tumblrln]:	http://aewallace.tumblr.com
+[myceln]:	http://club.myce.com
 [flickrln]:	https://www.flickr.com/photos/aewallace/

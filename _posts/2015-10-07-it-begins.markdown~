@@ -40,17 +40,12 @@ public void produceMagic(){
 {% endhighlight %}
 
 
-Visit me on [Twitter (@AEWallace)][twitterln]. For nonsense, you can visit my [Tumblr (also aewallace)][tumblrln]. I also have a Flickr account which is underused, and I spend most of my time doing what I can to give folks tech advice at [club.myce.com][myceln]. Sometimes (rarely) I even write news there!
+Visit me on [Twitter (@AEWallace)][twitterln]. For nonsense, you can visit my [Tumblr (also aewallace)][tumblrln]. I also have a [Flickr][flickrln] account which is underused, and I spend most of my time doing what I can to give folks tech advice at [club.myce.com][myceln]. Sometimes (rarely) I even write news there!
 
 That should have probably gone into the About page I neglected to set up properly. I advise you to go check it out. It's HILARIOUS.
 **A. E. Wallace out**
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 [twitterln]:	twitter.com/aewallace
 [tumblrln]:	aewallace.tumblr.com
 [myceln]:	club.myce.com
-[flickr]:	https://www.flickr.com/photos/aewallace/
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[flickrln]:	https://www.flickr.com/photos/aewallace/
