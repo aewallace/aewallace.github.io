@@ -3,7 +3,9 @@ layout: page
 title: Projects (past and present)
 permalink: /projects/
 ---
-First, the incomplete list of projects (mix of inactive & active projects):
+Note: most of these projects can be found at https://github.com/aewallace/
+
+#First, the incomplete list of projects (mix of inactive & active projects):
 
 _"lines of code" reflect code at the end of project (or current state), and doesn't account for refactoring, etc_
 
@@ -70,7 +72,7 @@ _unlisted projects_
   * implemented in Python with no extra libraries, 300 or so lines of code (as a prototype, not to be finished)
 
 
-And now for the programming languages (or libraries, or tools) used in those:
+#And now for the programming languages (or libraries, or tools) used in those:
 
 1. C & C++
   * OpenGL (native Windows implementation)
@@ -100,7 +102,7 @@ And now for the programming languages (or libraries, or tools) used in those:
 
 Other projects or tools may have made minor appearances or taken minor roles, including minor use of custom databases, networking, and UI implementations.
 
-Thanks for visiting! If you have any questions, let me know.
+#Thanks for visiting! If you have any questions, let me know.
 
 *A.E.Wallace OUT* 
 
