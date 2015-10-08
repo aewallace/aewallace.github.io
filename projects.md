@@ -3,13 +3,13 @@ layout: page
 title: Projects (past and present)
 permalink: /projects/
 ---
-Note: most of these projects can be found at https://github.com/aewallace/
+_Note: most of these projects can be found at [https://github.com/aewallace/](https://github.com/aewallace/)_
 
-#First, the incomplete list of projects (mix of inactive & active projects):
+##First, the incomplete list of projects (mix of inactive & active projects):
 
-_"lines of code" reflect code at the end of project (or current state), and doesn't account for refactoring, etc_
+("lines of code" reflect code at the end of project (or current state), and doesn't account for refactoring, etc)
 
-_larger projects_
+#larger projects
 
 1. RISK (current)
   * open-source GUI version of classic RISK 'board game'
@@ -43,7 +43,7 @@ _larger projects_
   * Second version represented a centralized transmission system (select trucks acted as communication hubs for all other trucks) to reduce data transmission & data loss
   * 900 to 1.5K lines of code
   
-_medium & smaller projects_
+#medium & smaller projects
 
 1. Japanese-to-English dictionary (past)
   * produced for a class, with requirements that it be up to Apple's specification (_never distributed via app store_)
@@ -63,7 +63,7 @@ _medium & smaller projects_
   * current status: bug fixes, so limited contribution at the moment
   * planned: create select graphical elements to add to the experience, similar to The Oregon Trail
   
-_unlisted projects_
+#unlisted projects
 
 1. Dependency planner (past)
   * closed source (unavailable for distribution or extended discussion)
@@ -72,7 +72,7 @@ _unlisted projects_
   * implemented in Python with no extra libraries, 300 or so lines of code (as a prototype, not to be finished)
 
 
-#And now for the programming languages (or libraries, or tools) used in those:
+##And now for the programming languages (or libraries, or tools) used in those:
 
 1. C & C++
   * OpenGL (native Windows implementation)
