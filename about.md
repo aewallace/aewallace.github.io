@@ -5,7 +5,7 @@ permalink: /about/
 ---
 So I haven't taken the time to create a proper About page. But I will! 
 In the meantime, I'll tell you to view my projects page.
-[projects][/projects/]
+[projects](/projects/)
 
 Also, if you need links for social media and such, visit my first post!
 [First copy of the link to my first post, because this is new to me.](/honeyimhome!/2015/10/07/it-begins.html)
