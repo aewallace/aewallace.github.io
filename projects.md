@@ -11,7 +11,7 @@ _Note: most of these projects can be found at [https://github.com/aewallace/](ht
 
 #larger projects
 
-1. RISK (current)
+1. RISK (current) _[releases](https://github.com/aewallace/GUI-Risk/releases)_
   * open-source GUI version of classic RISK 'board game'
   * Developed GUI & added functionality for main program, added functionality to GUI for helper app
   * maintain backwards compatibility with previously-implemented AI bots
