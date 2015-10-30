@@ -12,7 +12,7 @@ _Note: most of these projects can be found at [https://github.com/aewallace/](ht
 #larger projects
 
 1. RISK (current) 
-  * _[RISK executable JAR releases, as new as or newer than OCt 29](https://github.com/aewallace/GUI-Risk/releases)_ 
+  * _[RISK executable JAR releases, as new as or newer than Oct 29](https://github.com/aewallace/GUI-Risk/releases)_ 
   * _::: [preview video 1, HQ, Oct 29](https://www.youtube.com/watch?v=F5u-gxw-ofI) ::: [preview video 2, LQ, Oct 29](https://www.youtube.com/watch?v=S1bRbi8VBNg):::_ 
   * open-source GUI version of classic RISK 'board game'
   * Developed GUI & added functionality for main program, added functionality to GUI for helper app
