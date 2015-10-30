@@ -26,6 +26,7 @@ Well, I suppose if you must know about me:
 * also graduated from Spring Hill College, in Alabama.
 * My bachelors degrees came as the result of a dual-degree engineering program.
 * Those two degrees took 3 years each if you average out (6 years to become a software engineer!)
+* I like Application Software Engineering and Systems Software Engineering, with small attempts to dabble in Web Software Engineering.
 * I like games (video), reading (fiction and nonfiction, 
 tech news, LGBT news, African American news, world news...reading is cool), podcasts (on culture at large),
 music (Japanese & Spanish which I slightly understand, as well as French and Italian...whatever sounds like good music!),
